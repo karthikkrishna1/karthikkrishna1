@@ -1,3 +1,5 @@
+[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikkrishna1)](https://github.com/karthikkrishna1/github-readme-stats)
+
 - 👋 Hi, I’m @karthikkrishna1
 - 👀 I’m interested in Programming , AI and Quantum Computing
 - 🌱 I’m currently learning Computer Science
