@@ -3,7 +3,7 @@
 
 - 👀 I’m passionate about AI (specifically NLP and CV), Full stack development and Android Development.
 - 🌱 I’m currently learning Android Development with Kotlin and Web Development with Next.js
-- 💞️ I’m looking to collaborate on any project that would help me understand Artificial Intelligence and Machine Learning better.
+- 💞️ I’m looking to collaborate on any project that would help me understand LLM's, RAG and Conversational AI better.
 - 📫 Reach me at kkviriya@uwaterloo.ca
 
 <h3 align="left">Connect with me:</h3>
