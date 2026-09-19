@@ -1,18 +1,25 @@
-<h1 align="center">Hey, I'm Karthik Krishna Viriyala</h1>
-<h3 align="center">A Computer Science sophomore at the University of Waterloo. Always looking to learn something new! I have delved into various branches like Web Development, Machine Learning, Android Development, RPA with experiences in diverse domains.</h3>
+### Hi, I'm Karthik 👋
 
-- 👀 I’m passionate about AI (specifically NLP and CV), Full stack development and Android Development.
-- 🌱 I’m currently learning Android Development with Kotlin and Web Development with Next.js
-- 💞️ I’m looking to collaborate on any project that would help me understand LLM's, RAG and Conversational AI better.
+Computer Science student at the University of Waterloo, currently on co-op.
+
+- 🔭 Most recently: Software Engineering Intern on **Google's Agent Engineering team (Gemini Enterprise)** — built auto-hillclimbing pipelines for enterprise AI agents (Verizon, YouTube, Home Depot)
+- 🏗️ Also interned at **StackAdapt** (developer-productivity infra, Kubernetes reliability), **Google Workspace AI Safety**, **Rocket Innovation Studio**, **Home Hardware**, and **Gulftainer**
+- 🌱 Currently exploring distributed systems, AI agent evaluation, and ML infrastructure
+- 💬 Always happy to talk AI agents, evals, or infra reliability
 - 📫 Reach me at kkviriya@uwaterloo.ca
+- 🌐 Portfolio: [karthikviriyala.vercel.app](https://karthikviriyala.vercel.app)
+- 🏓 Outside of code: Movies, Table Tennis, F1 and Football
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karthik-krishna-viriyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-krishna-viriyala" height="30" width="40" /></a>
-</p>
+#### Tech Stack
 
-
-<!---
-karthikkrishna1/karthikkrishna1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
